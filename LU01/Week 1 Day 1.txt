@@ -1,8 +1,8 @@
 LLM - Large language model
 Transformer model architecture - that processes data in parallel rather than sequentially, using "self-attention" to model relationships between all elements in a sequence simultaneously
-Back propogation: is used to tweak the parameters 
-ChatGPT originally was created to translate english to german and now nobody knows how chatgpt developed to do more.
-Emergent capabilities such as arithmetic math, summarizing, were never trained AI just devloped it and no one knows how
+Back propagation: is used to tweak the parameters 
+ChatGPT originally was created to translate english to german and now nobody knows how Chatgpt developed to do more.
+Emergent capabilities such as arithmetic math, summarizing, were never trained AI just developed it and no one knows how
 
 Artificial Intelligence: General concepts of machines acting in a way that simulates human intelligence.
 Data mining: the process of analyzing large, complex datasets to discover hidden patterns, correlations, anomalies, and insights using machine learning, statistics, and database systems

@@ -1,0 +1,30 @@
+Prompting:
+
+Prompt Engineering: The art of refining inputs to get optimal AI outputs.
+Prompt engineering is power but it should never be an excuse for AI flaws.
+Anytime critics point out issues defenders "always say you're prompting wrong"
+
+The prompt framework (T-C-R-E-I)
+1. Week 1 Day 1.txt1. Task
+	Persona: ex. Marketer, Teacher
+	Format: Output type
+2. Context
+	Good: "Ideas for a gift under $30"
+	Great: "5 ideas for a 29-year-old who loves winter sports and just switched from snowboarding 
+	to skiing. Budget: $30"
+3. Reference
+	Provide data, example or specific ideas
+	Attach documents
+4. Evaluate
+	Review the output
+5. Iterate
+	Feed errors back in
+	Add more detail or refine constraints
+
+
+
+
+
+
+
+
