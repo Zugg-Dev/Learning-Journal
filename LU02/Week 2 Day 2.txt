@@ -1,0 +1,11 @@
+Date: March 4, 2026
+Topic: RAG and how to use it
+Class: Intro to AI
+
+Rag  - Retrieval Augmented Generation
+- An AI framework that improves the accuracy and relevance of LLMs by fetching trusted, external data before 
+generating a response.
+- Very cost efficient.
+- Can train yourself 
+
+I used Notebook RAG to create two different outputs. First, I generated a Svelte work example. Then I created an informational piece about sunfish using the same retrieval-augmented process.

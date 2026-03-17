@@ -1,0 +1,16 @@
+Date: March 17, 2026
+Topic: Vibe Coding
+Class: Intro to AI
+
+Vibe coding = a software that programs for you. If the code is wrong enter the problem and have it TRY to fix it.
+
+	⁃	Cons:
+	⁃	Context loss
+	⁃	Can’t keep all of the files in its “brain” will start to make up stuff for your
+		program.
+	⁃	Makes you worse as a developer
+	⁃	Expensive
+
+Vibe programmed a spider-man cat sitting website. 
+
+

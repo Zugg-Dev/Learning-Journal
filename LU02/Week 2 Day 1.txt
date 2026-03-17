@@ -1,0 +1,10 @@
+Date: March 3, 2026
+Topic: Prompting with AI
+Class: Intro to AI
+
+I created two versions of a communication about our gym’s new group fitness schedule—one for staff and one for members. The main change was moving the M/W/F Cardio Blast class from 7:00 AM to 6:00 AM. Through this process, I practiced tailoring tone and messaging to different audiences. The staff email focused on clarity and operational awareness, while the member email emphasized benefits and used a friendly, engaging tone. This activity reinforced the importance of clear communication, audience awareness, and highlighting key changes when managing schedule updates.
+
+I created a weekly staffing schedule for a team of 10 employees. My goal was to ensure consistent coverage while keeping the workload fair and avoiding scheduling conflicts. The schedule requires two employees on the morning shift and two on the afternoon shift each day.
+While building the table, I focused on three main constraints. First, I ensured that every shift was fully staffed with exactly two employees. Second, I avoided scheduling any employee for a morning shift immediately after they had worked an afternoon shift the previous day. Third, I distributed shifts as evenly as possible so the workload remained fair across the team.
+
+Through this process, I practiced workforce planning, attention to detail, and constraint-based problem solving. I learned how small scheduling rules can significantly affect staffing balance and how important it is to check schedules for conflicts. Overall, the final schedule meets operational needs while supporting employee fairness and well-being.
