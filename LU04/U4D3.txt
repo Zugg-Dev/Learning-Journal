@@ -1,0 +1,5 @@
+Date: March 24 2026
+Topic: Virtualbox
+Class: Intro To AI
+
+Used virtual box to create a VM (virtual machine) inside of my computer that operates with Debian.

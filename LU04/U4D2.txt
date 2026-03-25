@@ -1,0 +1,8 @@
+Date: March 23 2026
+Topic: AI and the comoponents
+Class: Intro To AI
+
+A subscription with chatGpt is about $25, but the computer that AI uses and the cost to keep AI running is way more so, essentially ChatGPT is burning money.
+
+AI uses a NPU (Neuroprocessing Unit) which is a microprocessor designed specifically to accelerate artificial intelligence (AI) and machine learning tasks, such as neural network calculations, matrix multiplication, and image processing
+
