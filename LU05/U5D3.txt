@@ -1,0 +1,5 @@
+Date: March 31 2026
+Topic: Docker
+Class: Intro To AI
+
+Docker is broken. Ollama does not work. Cooked. 

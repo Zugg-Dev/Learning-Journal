@@ -1,0 +1,10 @@
+Date: March 30 2026
+Topic: Docker
+Class: Intro To AI
+
+Docker is used for developing, shipping, and running applications using containers. It enables developers to package an application and all its dependencies (code, runtime, libraries, etc.) into a single, standardized unit called a container, ensuring that the software runs consistently across any environment, from a developer's laptop to production in the cloud.
+
+If needed the prompt podman will open all of the commands needed.
+
+
+

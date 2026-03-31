@@ -1,0 +1,6 @@
+Date: March 25 2026
+Topic VM
+Class intro to AI
+
+
+Downloaded curl to my VM. Used curl to create a network. Broke my VM.
