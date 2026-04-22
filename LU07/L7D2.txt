@@ -1,0 +1,5 @@
+Title: Vibe Coding 
+Date:4/14/26
+Class: Intro TO AI
+
+Started the class talking about the recent astronaut landing and apollo. After this we created another Svelte app using the npx create command, and then I edited the code using co pilot. 

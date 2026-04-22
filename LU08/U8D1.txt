@@ -1,0 +1,9 @@
+Date: 4/20/26
+Title: 3D Modeling
+Class: Intro To AI
+
+To begin the class everybody downloaded OpenSCAD to do a later assignment where we make a 3D puzzle piece. We read into the documentation and started to use some code we found like the cube(10); line. After clicking preview it runs the code we implemented creating a cube. If you program a syntax error it will not run just like Python.
+
+Program lines used: cube(10); cube(x, y, z); cube(x, y, z, center = true) translate(x, y, z) cylinder (h=3, r=8)
+
+After using openSCAD to create a car I saved the car into my documents folder. Later I prompted AI with this line "Write the code to make a 20mm cube with slightly rounded edges to be like a dice in openSCAD" I then used the code it gave me to create the cube. I did this with a few other objects, but pretty much every single one failed.

@@ -1,0 +1,5 @@
+Title: Svelte
+Date: 4/13/26
+Class: Intro to AI
+
+We are currently at the 1960's with our quantum computers. They can really only do theoretical work. They are preparing for Q-day. Downloaded Copilot to my IDE after talking about the Claude hack. After that I installed node on to my computer, and after installed svelte. I then created a Svelte app. We walked through all of the different folders within the app. After typing the run dev line I got my svelte website up on my local server.
