@@ -1,0 +1,5 @@
+Title: Vibe Coding 
+Date:4/15/26
+Class: Intro TO AI
+
+Created an entire Svelte page. 
