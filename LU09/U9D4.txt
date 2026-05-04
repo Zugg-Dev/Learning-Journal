@@ -1,0 +1,5 @@
+Title: n8n
+Date: 4/30/26
+Class: Intro to AI
+
+Just worked on the n8n project.

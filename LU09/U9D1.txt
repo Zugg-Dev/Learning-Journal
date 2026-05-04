@@ -1,0 +1,5 @@
+Title: N8N
+Date: May 27th 2026
+Class: Intro To AI
+
+Today we learned about N8N, a no‑code automation tool that connects different apps and lets you build workflows triggered by events. What stood out to me is how automation isn’t just for programmers — even non‑technical people can use it to save time on repetitive tasks. We saw examples like Discord moderation, email filtering, and database triggers, which made the whole idea feel practical. For our homework, we have to build our own workflow with at least five nodes and include things like AI, APIs, or a database. Overall, the lesson made me realize that being a developer is really about solving problems and choosing the right tools, not just writing code.
